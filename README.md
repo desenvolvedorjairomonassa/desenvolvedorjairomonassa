@@ -1,6 +1,14 @@
 latest CERTIFICATIONS
 
-AWS Certified Solutions Architect - Associate 
+AWS Database specialty
+
+AWS Certified Developer – Associate
+
+AWS Data analytics specialty
+
+AWS Certified Solutions Architect - Associate
+
+GCP Professional Cloud Architect - PCA
 
 GCP Professional Database Engineer - PDBE
 
