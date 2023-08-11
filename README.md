@@ -1,5 +1,9 @@
 latest CERTIFICATIONS
 
+GCP Professional Developer Engineer PDE
+
+AWS Developer associate
+
 AWS Database specialty
 
 AWS Certified Developer – Associate
