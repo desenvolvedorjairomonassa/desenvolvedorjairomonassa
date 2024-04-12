@@ -1,5 +1,6 @@
 latest CERTIFICATIONS
 ----
+- Azure AI engineer (AI-102)
 - AWS Certified MachineLearning specialty
 - AWS Certified sysops associate
 - Azure Data Engineer Associate DP-203
