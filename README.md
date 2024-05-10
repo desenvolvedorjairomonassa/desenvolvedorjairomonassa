@@ -1,5 +1,6 @@
 latest CERTIFICATIONS
 ----
+- GCP Professional Machine Learning Engineer
 - Azure AI engineer (AI-102)
 - AWS Certified MachineLearning specialty
 - AWS Certified sysops associate
