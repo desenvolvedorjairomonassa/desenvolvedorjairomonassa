@@ -1,5 +1,6 @@
 latest CERTIFICATIONS
 ----
+- AWS Certified Solutions Architect - Professional
 - GCP Professional Machine Learning Engineer
 - Azure AI engineer (AI-102)
 - AWS Certified MachineLearning specialty
@@ -22,3 +23,5 @@ latest CERTIFICATIONS
 - Academy Accreditation - Databricks Lakehouse Fundamentals
 - 
 <a href="https://www.linkedin.com/in/jairomonassa/"> LinkedIn Jairo Monassa</a>
+
+https://medium.com/@jaironedermonassa
