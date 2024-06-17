@@ -2,7 +2,7 @@ latest CERTIFICATIONS
 ----
 
 - AWS Certified Security – Specialty
-- AWS Certified: Data Engineer – Associate
+- AWS Certified Data Engineer – Associate
 - AWS Certified Solutions Architect - Professional
 - AWS Certified MachineLearning specialty
 - AWS Certified sysops associate
@@ -11,8 +11,9 @@ latest CERTIFICATIONS
 - AWS Data analytics specialty
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Cloud Practitioner
-- 
-- Azure AI engineer (AI-102)
+
+- Azure Data Science Associate (DP-100)
+- Azure AI Engineer Associate (AI-102)
 - Azure Data Engineer Associate DP-203
 - Azure: AZ-900/DP-900/SC-900/AI-900
 
