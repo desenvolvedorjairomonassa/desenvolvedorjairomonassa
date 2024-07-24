@@ -29,7 +29,7 @@ latest CERTIFICATIONS
 
 - OCI Data Foundations
 - Academy Accreditation - Databricks Lakehouse Fundamentals
-- 
+- Academy Accreditation - Generative AI Fundamentals
 <a href="https://www.linkedin.com/in/jairomonassa/"> LinkedIn Jairo Monassa</a>
 
 https://medium.com/@jaironedermonassa
