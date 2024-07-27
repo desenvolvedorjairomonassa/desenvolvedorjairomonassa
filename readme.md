@@ -23,11 +23,12 @@ latest CERTIFICATIONS
 - GCP Professional Database Engineer - PDBE
 - GCP Professional Data Engineer - PDE
 - GCP Associate Cloud Engineer - ACE
-- 
+ 
 - Databricks Certified Associate Developer for Apache Spark 3.0
 - Databricks Certified Data Engineer Associate
 
 - OCI Data Foundations
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Academy Accreditation - Databricks Lakehouse Fundamentals
 - Academy Accreditation - Generative AI Fundamentals
 <a href="https://www.linkedin.com/in/jairomonassa/"> LinkedIn Jairo Monassa</a>
