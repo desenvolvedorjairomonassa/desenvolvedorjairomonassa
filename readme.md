@@ -1,4 +1,4 @@
-latest CERTIFICATIONS
+# latest CERTIFICATIONS
 ----
 
 - AWS Certified Security – Specialty
@@ -31,6 +31,20 @@ latest CERTIFICATIONS
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Academy Accreditation - Databricks Lakehouse Fundamentals
 - Academy Accreditation - Generative AI Fundamentals
+
+ # AWS Black Belt event participated 2024
+ - Generative AI and ML
+ - Track de Serverless
+ - Track de Analytics
+ 
+ # AWS Black Belt event participated 2023
+ - Track de VMware
+ - Track de Microsoft
+ - Track de AI/ML
+ - Track de Security
+ - Track de Analytics
+ 
+ 
 <a href="https://www.linkedin.com/in/jairomonassa/"> LinkedIn Jairo Monassa</a>
 
 https://medium.com/@jaironedermonassa
