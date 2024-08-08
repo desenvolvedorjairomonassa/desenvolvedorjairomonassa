@@ -36,6 +36,7 @@
  - Generative AI and ML
  - Track de Serverless
  - Track de Analytics
+ - Track Migration
  
  # AWS Black Belt event participated 2023
  - Track de VMware
