@@ -1,6 +1,6 @@
 # latest CERTIFICATIONS
 ----
-
+- AWS Certified AI Practitioner
 - AWS Certified Security – Specialty
 - AWS Certified Data Engineer – Associate
 - AWS Certified Solutions Architect - Professional
